@@ -1,0 +1,4 @@
+*.zip
+*.R*
+data/
+plots/
