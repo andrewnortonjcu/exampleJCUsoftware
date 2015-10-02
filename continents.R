@@ -13,6 +13,8 @@
 library(ggplot2)
 #assume u have  data/gapminder.Rdata  add a condition later or read from csv
 
+# make sure its in data/
+
 load("data/gapminder.RData")
 
 draw_dots_continent <- function(df){
